@@ -26,6 +26,9 @@ retriever = db.as_retriever(search_kwargs={"k":3})
 
 relevant_docs=retriever.invoke(query)
 
+
+
+
 print(f"User query: {query}")
 
 for i, doc in enumerate(relevant_docs,1):
