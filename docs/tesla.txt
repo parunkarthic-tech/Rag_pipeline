@@ -1,0 +1,252 @@
+"Tesla Motors" redirects here. For electric motors invented by Nikola Tesla, see Induction motor and AC motor.
+"Tesla (company)" redirects here. For the electrotechnical company, see Tesla a.s. For other uses, see Tesla (disambiguation).
+Tesla, Inc.
+
+
+Gigafactory Texas, Tesla's headquarters, just outside of Austin, Texas
+Formerly	Tesla Motors, Inc. (2003–2017)
+Company type	Public
+Traded as	
+Nasdaq: TSLA
+Nasdaq-100 component
+S&P 100 component
+S&P 500 component
+ISIN	US88160R1014
+Industry	
+Automotive
+Renewable energy
+Founded	July 1, 2003; 22 years ago in San Carlos, California, US
+Founders	
+Martin Eberhard
+Marc Tarpenning
+(See § Founding)
+Headquarters	Austin, Texas, US
+Number of locations	
+Increase 1,359 sales, service, and delivery centers
+Increase 7,791 Supercharger stations[1]
+Area served	
+East AsiaEuropeMiddle EastNorth AmericaOceaniaSoutheast AsiaIndian Subcontinent
+Key people	
+Elon Musk (CEO)
+Robyn Denholm (chair)
+Products	
+CybertruckMegapackModel 3Model SModel XModel YPowerwallSemiSolar PanelsSolar Roof
+Production output	
+Decrease 1,773,443 vehicles (2024)
+Increase 31.4 GWh battery energy storage systems (2024)
+Services	
+Charginginsurancemaintenance
+Revenue	Increase US$97.7 billion (2024)
+Operating income	Decrease US$7.1 billion (2024)
+Net income	Decrease US$7.1 billion (2024)
+Total assets	Increase US$122.1 billion (2024)
+Total equity	Increase US$72.9 billion (2024)
+Owner	Elon Musk (13%)[2]
+Number of employees	Decrease 125,665 (2024)
+Subsidiaries	
+Tesla Automation
+Tesla Energy
+ASN	
+394161
+Website	tesla.com
+Footnotes / references
+Financials as of December 31, 2024.
+References:[3]
+	
+This article is part of
+a series about
+Elon Musk
+Personal
+Companies
+Politics
+In the arts and media
+vte
+Tesla, Inc. (/ˈtɛzlə/ TEZ-lə or /ˈtɛslə/ ⓘ TESS-lə[a]) is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.
+
+Tesla was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. Its name is a tribute to the inventor and electrical engineer Nikola Tesla. In February 2004, Elon Musk led Tesla's first funding round and became the company's chairman, subsequently claiming to be a co-founder; in 2008, he was named chief executive officer. In 2008, the company began production of its first car model, the Roadster sports car. This was followed by the Model S sedan in 2012, the Model X SUV in 2015, the Model 3 sedan in 2017, the Model Y crossover in 2020, the Tesla Semi truck in 2022, and the Cybertruck pickup truck in 2023.
+
+Tesla is one of the world's most valuable companies in terms of market capitalization. Starting in July 2020, it has been the world's most valuable automaker. From October 2021 to March 2022, Tesla was a US$1 trillion company, the seventh US company to reach that valuation. In 2023, the company was ranked 69th in the Forbes Global 2000.[5] In 2024, the company led the battery electric vehicle market, with 17.6% share.
+
+Tesla exceeded $1 trillion in market capitalization again between November 2024[6] and February 2025,[7] and since May 2025.[8] In November 2025, Tesla approved a pay package worth $1 trillion for Musk, which he is to receive over 10 years if he meets specific goals.[9]
+
+Tesla has been the subject of lawsuits, boycotts, government scrutiny, and journalistic criticism, stemming from allegations of multiple cases of whistleblower retaliation, worker rights violations such as sexual harassment and anti-union activities, safety defects leading to dozens of recalls, the lack of a public relations department, and controversial statements from Musk, including overpromising on the company's driving assist technology and product release timelines.
+
+History
+Main article: History of Tesla, Inc.
+Founding (2003–2004)
+The company was incorporated as Tesla Motors, Inc., on July 1, 2003, by Martin Eberhard and Marc Tarpenning.[10][11] They served as chief executive officer and chief financial officer, respectively.[12] Eberhard said that he wanted to build "a car manufacturer that is also a technology company", with its core technologies as "the battery, the computer software, and the proprietary motor".[13]
+
+Ian Wright joined Eberhard and Tarpenning a few months later.[10] In February 2004, the company raised US$7.5 million (equivalent to $12.5 million in 2024) in series A funding, including $6.5 million (equivalent to $10.8 million in 2024) from Elon Musk, who had received $176 million from the sale of his interest in PayPal two years earlier.[14] Musk became the chairman of the board of directors and the largest shareholder of Tesla.[15][16][12] J. B. Straubel joined Tesla in May 2004 as chief technical officer.[17]
+
+A lawsuit settlement agreed to by Eberhard and Tesla in September 2009 allows all five – Eberhard, Tarpenning, Wright, Musk, and Straubel – to call themselves co-founders.[18]
+
+Roadster (2005–2009)
+Main article: Tesla Roadster (first generation)
+Elon Musk took an active role within the company, but was not deeply involved in day-to-day business operations.[19] The company's strategy was to start with a premium sports car aimed at early adopters and then move into more mainstream vehicles, including sedans and affordable compacts.[20]
+
+In February 2005, Musk led Tesla's Series B venture capital funding round of $13 million, which added Valor Equity Partners to the funding team.[21][16] Musk co-led the third, $40 million round in May 2006 which saw investment from prominent entrepreneurs including Google co-founders Sergey Brin and Larry Page, and former eBay president Jeff Skoll.[22] A fourth round worth $45 million in May 2007 brought the total private financing investment to over $105 million.[22]
+
+In August 2007, Eberhard was asked by the board, led by Musk, to step down as CEO.[23] Eberhard then took the title of "President of Technology" before ultimately leaving the company in January 2008. Co-founder Marc Tarpenning, who served as the Vice President of Electrical Engineering of the company, also left the company in January 2008.[24] In August 2007, Michael Marks was brought in as interim CEO, and in December 2007, Ze'ev Drori became CEO and president.[25] Musk succeeded Drori as CEO in October 2008.[25] In June 2009, Eberhard filed a lawsuit against Musk for allegedly forcing him out.[26] The case was dismissed in August 2009.[27]
+
+Tesla began production of the Roadster in 2008 inside the service bays of a former Chevrolet dealership in Menlo Park.[28][29] By January 2009, Tesla had raised $187 million and delivered 147 cars. Musk had contributed $70 million of his money to the company.[30]
+
+In June 2009, Tesla was approved to receive $465 million in interest-bearing loans from the United States Department of Energy. The funding, part of the $8 billion Advanced Technology Vehicles Manufacturing Loan Program, supported the engineering and production of the Model S sedan, as well as the development of commercial powertrain technology.[31] Tesla repaid the loan in May 2013, with $12 million in interest.[32][33]
+
+IPO, Model S, and Model X (2010–2015)
+
+First deliveries of Model S at the Tesla Fremont Factory in California, in June 2012
+In May 2010, Tesla purchased the NUMMI plant in Fremont, California, from Toyota for $42 million.[34] On June 29, 2010, the company went public via an initial public offering (IPO), the first American car company to do so since the Ford Motor Company had its IPO in 1956.[35] The company issued 13.3 million shares of common stock at a price of $17 per share at its opening on the NASDAQ, raising $226 million.[36]
+
+In October 2010, Tesla opened the Tesla Factory to start production of the Model S.[37] In January 2012, Tesla ceased production of the Roadster, and in June 2012, the company launched its second car, the Model S luxury sedan.[38] The Model S won several automotive awards during 2012 and 2013, including the 2013 Motor Trend Car of the Year,[39] and became the first electric car to top the monthly sales ranking of a country, when it topped the Norwegian new car sales list in September 2013.[40] The Model S was also the best-selling plug-in electric car worldwide for the years 2015 and 2016.[41]
+
+On July 15, 2013, Tesla became a NASDAQ-100 company.[42]
+
+Tesla announced the Tesla Autopilot, a driver-assistance system, in 2014. In September that year, all Tesla cars started shipping with sensors and software to support the feature, with what would later be called "hardware version 1".[43]
+
+Tesla entered the energy storage market, unveiling its Tesla Powerwall (home) and Tesla Powerpack (business) battery packs in April 2015.[44] The company received orders valued at $800 million within a week of the unveiling.[45]
+
+Tesla began shipping its third vehicle, the luxury SUV Tesla Model X, in September 2015, which had 25,000 pre-orders at the time.[46][47]
+
+SolarCity and Model 3 (2016–2018)
+Tesla entered the solar installation business in November 2016 with the purchase of SolarCity, in an all-stock $2.6 billion deal.[48] The business was merged with Tesla's existing battery energy storage products division to form the Tesla Energy subsidiary.[49] The deal was controversial because at the time of the acquisition, SolarCity was facing liquidity issues of which Tesla's shareholders were not informed.[50] In February 2017, Tesla Motors changed its name to Tesla, Inc., to better reflect the scope of its expanded business.[51]
+
+Tesla unveiled its first mass-market vehicle in April 2016, the Model 3 sedan. The Model 3 was less expensive than Tesla's previous three vehicles, and within a week, the company received over 325,000 paid reservations.[52] To speed up production and control costs, Tesla invested heavily in robotics and automation to assemble the Model 3, but the robotics actually slowed the production of the vehicles.[53] This led to significant delays and production problems, a period which the company described as "production hell".[54][55] By the end of 2018, the production problems had been overcome, and the Model 3 became the world's best-selling electric car from 2018 to 2021.[56][57]
+
+This period of "production hell" put significant financial pressure on Tesla, and during this time it became one of the most shorted companies in the stock market. On August 8, 2018, amid the financial issues, Musk posted on social media that he was considering taking Tesla private.[58][59] The plan did not materialize and gave rise to much controversy and many lawsuits including a securities fraud charge from the SEC, which would force Musk to pay a $20 million fine and step down as the company's chairman, although he was allowed to remain the CEO.
+
+Global expansion and Model Y (2019–present)
+From July 2019 to June 2020, Tesla reported four consecutive profitable quarters for the first time, which made it eligible for inclusion in the S&P 500.[60] During 2020, its share price increased 740%,[61] and by December 14, 2020, its market capitalization was more than the next nine largest automakers combined,[62] and it became the sixth most valuable company in the US.[63] Tesla was added to the S&P index on December 21, 2020;[64] it was the most valuable company ever added, and was the sixth-largest member of the index immediately after it was added.[64][65]
+
+Tesla introduced its second mass-market vehicle in March 2019, the Model Y mid-size crossover SUV, based on the Model 3.[66][67] Deliveries started in March 2020.[68]
+
+During this period, Tesla invested heavily in expanding its production capacity, opening three new Gigafactories in quick succession. Construction of Gigafactory Shanghai started in January 2019, as the first automobile factory in China fully owned by a foreign company (not a joint venture).[69] The factory's first production vehicle, a Model 3, rolled out in December, less than one year after groundbreaking.[70] Gigafactory Berlin broke ground in February 2020,[71] and its production of the Model Y began in March 2022.[72] Gigafactory Texas broke ground in June 2020,[73] and its production of the Model Y began in April 2022.[74] In March 2023, Tesla announced plans for a Gigafactory Mexico to open in 2025,[75] but its groundbreaking has been delayed.
+
+At the beginning of the COVID-19 pandemic, Tesla closed the Fremont Factory in March 2020 due to California state and Alameda county COVID restrictions.[76] When California lifted restrictions, but the county did not, Tesla sued the county, and restarted production on May 11, 2020.[77] The county lifted restrictions on May 13, 2020, and Tesla dropped its lawsuit.[78] After the dispute with county officials, on December 1, 2021, Tesla moved its legal headquarters to Gigafactory Texas.[79][80] However, Tesla continued to use its former headquarters building in Palo Alto, and over the next two years significantly expanded its footprint in California. The company opened its Megafactory to build Megapack batteries in Lathrop, California in 2022,[81] and announced in February 2023 that it would establish a large global engineering headquarters in Palo Alto, moving into a corporate campus once owned by Hewlett Packard.[82]
+
+In early 2021, Tesla became a major investor in bitcoin, acquiring $1.5 billion of the cryptocurrency,[83] and on March 24, 2021, the company started accepting bitcoin as a form of payment for US vehicle purchases.[84] However, after 49 days, the company ended bitcoin payments over concerns that the production of bitcoin was contributing to the consumption of fossil fuels, against the company's mission of encouraging the transition to sustainable energy.[85] After the announcement, the price of bitcoin dropped around 12%.[86] Musk later noted that Tesla would resume bitcoin payments if there was confirmation of at least 50% clean energy usage by bitcoin miners. Despite later reaching this milestone, Tesla did not return to accepting bitcoin.[87] By July 2022 Tesla had sold about 75% of its bitcoin holdings at a loss, citing that the cryptocurrency was hurting the company's profitability.[88]
+
+Between May 2023 and February 2024, almost all major North America EV manufacturers announced plans to switch to Tesla's North American Charging Standard adapters on their EVs by 2025, which is expected to be a stable source of recurring revenue for Tesla.[89] In November, Tesla started shipping the Cybertruck, produced from Gigafactory Texas.[90]
+
+In April 2024, the company announced it was laying off 10% of its employees.[91] In June, the company moved its incorporation from Delaware to Texas.[92] In October, the company unveiled a concept version of two autonomous vehicles – the Cybercab and Robovan – and detailed that both would be an integral part of a Tesla ridehailing service called the Tesla Network,[93][94] a future service they had previously teased in 2019.[95]
+
+In December 2024, a Delaware court rejected Musk's $56 billion pay package from Tesla, ruling that it was not properly approved by the company's board. The decision arose from a lawsuit by Tesla shareholders who claimed the compensation was excessive and not aligned with performance metrics.[96]
+
+By February 2025, Tesla saw large decreases in its stock price and sales across Europe widely attributed to Musk's political advocacy and embrace of far-right politics.[97] Polling found that Musk's ties to United States President Donald Trump and his Department of Government Efficiency were strongly correlated to decreasing views of Tesla,[98][99] and triggered multiple protests, vandalism, gunfire, and arson at Tesla stores and charging stations.[100][101] By March 7, Tesla's stock had decreased every week for seven straight weeks since Musk joined the Trump administration, making it the longest losing streak for Tesla in 15 years as a public company.[102] On March 29, over 200 protests against Tesla were held worldwide.[103]
+
+In July 2025, Tesla released a software update adding the artificial intelligence (AI) chatbot Grok to its vehicles. While the update provides in-car chatbot functionality, it does not give Grok control over vehicle functions.[104] The same month, Tesla opened its first showroom in India at the Bandra-Kurla Complex in Mumbai, showcasing the Model Y as its debut offering.[105][106] In August, Tesla integrated Deepseek and Bytedance's Doubao AIs into Chinese models. Unlike vehicles equipped with Grok, AI in Tesla's Chinese vehicles may be used to control vehicle functions, as well as act as a chatbot.[107][108]
+
+Automotive products and services
+"Tesla electric car" redirects here; not to be confused with Nikola Tesla electric car hoax.
+As of November 2024, Tesla offers six vehicle models: Model S, Model X, Model 3, Model Y, Semi, and Cybertruck. Tesla's first vehicle, the first-generation Tesla Roadster, is no longer sold. Tesla has announced plans for a second-generation Roadster, along with future vehicles such as the Cybercab and the Robovan.
+
+Available products
+Model S
+Main article: Tesla Model S
+
+Tesla Model S
+The Model S is a full-size car sedan with a liftback body style and a dual motor, all-wheel drive layout. Development of the Model S began before 2007, and deliveries started in June 2012. The Model S has seen two major design refreshes, first in April 2016, which introduced a new front-end design, and again in June 2021, which revised the interior. The Model S was the top-selling plug-in electric car worldwide in 2015 and 2016. More than 250,000 vehicles have been sold as of December 2018 (when Tesla merged production numbers for the Model S and Model X).
+
+Model X
+Main article: Tesla Model X
+
+Tesla Model X
+The Model X is a mid-size luxury crossover SUV offered in 5-, 6-, and 7-passenger configurations with either a dual- or trimotor, all-wheel drive layout. The rear passenger doors open vertically with an articulating "falcon-wing" design. A prototype Model X was first shown in February 2012, and deliveries started in September 2015.[109] The Model X shares around 30 percent of its content with the Model S. The vehicle has seen one major design refresh in June 2021 which revised the interior.
+
+Model 3
+Main article: Tesla Model 3
+
+Tesla Model 3
+The Model 3 is a mid-size car with a fastback body style and either a dual-motor, all-wheel drive layout or a rear-motor, rear-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model S sedan. A prototype Model 3 was first shown in 2016 and within a week, the company received over 325,000 paid reservations.[52] Deliveries started in July 2017.[110] The Model 3 ranked as the world's best-selling electric car from 2018 to 2021,[111][112][113] and cumulative sales passed 1 million in June 2021.[114] The vehicle has seen one major design refresh in September 2023 which revised the exterior and interior.
+
+Model Y
+Main article: Tesla Model Y
+
+Tesla Model Y
+The Model Y is a mid-size crossover SUV offered in 5- and 7-passenger configurations with a single‐motor, rear-wheel drive or a dual-motor, all-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model X SUV. A prototype Model Y was first shown in March 2019,[66] and deliveries started in March 2020.[68] The Model Y shared around 75 percent of its content with the Model 3.[67] In the first quarter of 2023, the Model Y outsold the Toyota Corolla to become the world's best-selling car, the first electric vehicle to claim the title.[115]
+
+Tesla Semi
+Main article: Tesla Semi
+
+Tesla Semi prototype
+The Tesla Semi is a Class 8 semi-truck by Tesla, Inc., with a tri-motor, rear-wheel drive layout. Tesla claims that the Semi has approximately three times the power of a typical diesel semi truck, and a range of 500 miles (800 km).[116] Two prototype trucks were first shown in November 2017 and initial deliveries were made to PepsiCo on December 1, 2022.[117] Tesla stated in April 2024 that it plans full production in late 2025.[118]
+
+Cybertruck
+Main article: Tesla Cybertruck
+
+Tesla Cybertruck
+The Cybertruck is a full-sized pickup truck. First announced in November 2019, pilot production began in July 2023, after being pushed back multiple times, and deliveries began on November 30, 2023. Three models are offered: rear-wheel drive, dual-motor all-wheel drive, and trimotor all-wheel drive, with EPA range estimates of 320–340 miles (510–550 km), depending on the model. The truck's exterior design, made from flat sheets of unpainted stainless steel, earned a notably polarizing reception from the media.[119][120][121] Tesla initially planned for Cybertruck production capacity of more than 250,000 units, but as of 2025 the company is only selling around 20,000 units per year.[122]
+
+Concept vehicles
+Roadster (second generation)
+Main article: Tesla Roadster (second generation)
+
+Tesla Roadster prototype
+On November 16, 2017, Tesla unveiled the second generation Roadster with a purported range of 620 miles (1,000 km) with a 200-kilowatt-hour (720 MJ) battery pack that would achieve 0–60 miles per hour (0–97 km/h) in 1.9 seconds; and 0–100 mph (0–161 km/h) in 4.2 seconds,[123] and a top speed over 250 mph (400 km/h). A "SpaceX Package" would include cold-gas thrusters.[124] The vehicle would have three electric motors, allowing all-wheel drive and torque vectoring during cornering.[124] The base price was set at $200,000.[124] Initially scheduled to ship in 2020, the vehicle has been repeatedly delayed. In July 2024, Musk said that the Roadster should enter production in 2025.[125]
+
+Tesla next-generation vehicle
+Main article: Tesla next-generation vehicle
+The Tesla next-generation vehicle is an announced battery electric platform. It would become the third platform for the company. Vehicles based on this platform are not expected before 2025.[126] In July 2024, Musk said that the platform should be expected to become available in the first half of 2025.[125]
+
+Cybercab
+Main article: Tesla Cybercab
+
+Tesla Cybercab prototype
+The Tesla Cybercab is an upcoming two-passenger battery-electric self-driving car under development by Tesla. It is expected to be part of the Tesla Robotaxi service.
+
+A concept version of the Cybercab was unveiled in October 2024, with 20 prototypes providing short rides to attendees of the announcement event. The concept vehicle had no steering wheel or pedals.
+
+The production of Cybercab is planned to be fully autonomous and to be released before 2027.
+
+Robovan
+Main article: Tesla Robovan
+The Tesla Robovan is an electric autonomous van planned for future development by Tesla.[127] Announced in October 2024, the vehicle is being designed to carry up to 20 passengers.[94]
+
+Discontinued vehicles
+
+The original Roadster
+Tesla Roadster (first generation)
+Main article: Tesla Roadster (first generation)
+The first generation Tesla Roadster[128] was a two-seat sports car, rebuilt from the Lotus Elise chassis.[129] It was produced from 2008 to 2012. The Roadster was the first highway-legal serial production electric car to use lithium-ion battery cells, and the first production all-electric car to travel more than 200 miles (320 km) per charge.
+
+Services
+Connectivity services
+Tesla cars come with "Standard Connectivity", which provides navigation using a cellular connection. For a fee, Tesla offers a subscription to "Premium Connectivity", which adds live traffic and satellite maps to navigation, internet browsing, and media streaming.[130]
+
+Vehicle servicing
+Tesla's strategy is to service its vehicles first through remote diagnosis and repair. If a problem cannot be resolved remotely, Tesla dispatches a mobile technician or directs customers to a company-owned service center. [131][132] As of October 2024, the company operates 1,306 retail stores, galleries, service, delivery and body shop locations globally.[133] Tesla has said that it does not want to make a profit on vehicle servicing, which has traditionally been a large profit center for most auto dealerships.[134]
+
+In 2016, Tesla recommended having any Tesla car inspected every 12,500 miles or once a year, whichever comes first. In early 2019, the manual was changed to say: "your Tesla does not require annual maintenance and regular fluid changes," and instead it recommends periodic servicing of the brake fluid, air conditioning, tires, and air filters.[135]
+
+Charging services
+Supercharger network
+Main article: Tesla Supercharger
+Supercharger is the branding used by Tesla for its high-voltage direct current fast chargers.
+
+
+Tesla Supercharger station in Wittenburg, Germany
+The Supercharger network was introduced on September 24, 2012, as the Tesla Model S entered production, with six stations in California. As of November 2025, Tesla operates a network of about 7,900 Supercharger stations with over 75,000 connectors worldwide. The majority are located in three regions: Asia Pacific (3,000 stations), North America (3,000), and Europe (1,500). Superchargers can currently output as much as 500 kilowatts (kW).
+Destination charging location network
+
+"Destination Charger" in North America
+Tesla also has a network of "Destination Chargers", slower than Superchargers and intended for locations where customers are expected to park and stay for several hours, such as hotels, restaurants, or shopping centers. Unlike the Supercharger network, Tesla does not own the destination chargers; instead, property owners set up the devices and set pricing.[136] When the network first launched in 2014, Tesla provided free charging equipment and covered installation costs.[citation needed] One of the largest providers is hotel chain Hilton Worldwide which in 2023 announced an agreement with Tesla to install 20,000 chargers across 2,000 of its properties in North America by 2025.[137]
+
+Insurance services
+Tesla has offered its own vehicle insurance in the United States since 2017 and has been acting as an independent insurance producer since 2021 as Tesla Insurance Services, Inc. It was introduced after the American Automobile Association (AAA), a major insurance carrier, raised rates for Tesla owners in June 2017 after a report concluded that the automaker's vehicles crashed more often and were pricier to repair than comparable vehicles.[138] A study in 2018 based on data from the Insurance Institute for Highway Safety confirmed the findings.[139]
+
+The company says that it uniquely understands its vehicles, technology, and repair costs, and can eliminate traditional insurance carriers' additional charges.[140] In states where allowed, the company uses individual vehicle data to offer personalized pricing that can increase or decrease in cost based on the prior month's driving safety score.[141]
+
+As of January 2023, Tesla offers insurance in the US states of Arizona, California, Colorado, Illinois, Maryland, Minnesota, Nevada, Ohio, Oregon, Texas, Utah, and Virginia.[142] The company also offers insurance for non-Tesla vehicles owned by Tesla owners.[140]
+
+Robotaxi
+Main article: Tesla Robotaxi
+Robotaxi is a ride-hailing service launched by Tesla in 2025. It currently operates in Austin, Texas. Robotaxis currently rely on human supervisors, with the intent of eventually allowing for fully autonomous rides.[143][144]
+
+Energy products
+Main article: Tesla Energy
+
+Two Tesla Powerwall 2 home energy storage devices from Tesla Energy
+Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as related products and services) to residential, commercial, and industrial customers. The subsidiary was created by the merger of Tesla's existing battery energy storage products division with SolarCity, a solar energy company that Tesla acquired in 2016.[145] In 2023, the company deployed 14.7 gigawatt-hours of battery energy storage products, an increase of 125% over 2022, but only deployed solar energy systems capable of generating 223 megawatts, a decrease of 36% over 2022.[146]
+
+Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Tesla Solar Inverter. Storage products include the Powerwall (a home energy storage device) and the Megapack (a large-scale energy storage system).[147][148][149]
+
+For large-scale customers, Tesla Energy operates an online platform which allows for automated, real-time power trading, demand forecasting and product control.[150][151][152] In March 2021, the company said its online products were managing over 1.2 GWh of storage.[153] For home customers, the company operates a virtual power company in Texas called Tesla Electric, which utilizes the company's online platforms to manage customers Powerwall devices, discharging them into the grid to sell power when prices are high, earning money for customers.[154][155]
